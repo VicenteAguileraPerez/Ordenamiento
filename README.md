@@ -1,1 +1,3 @@
-# Ordenamiento ## BubbleSort ##InsertSort
+# Ordenamiento 
+## BubbleSort 
+## InsertSort

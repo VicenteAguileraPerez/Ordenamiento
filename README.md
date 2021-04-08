@@ -1,7 +1,8 @@
 # Ordering (Ordenamiento)
 
 This is a web project where you can visualize step by step the ordering of numbers using both bubble sort and insertion sort.
-Este es un proyecto donde puedes visualizar paso a paso el ordenamiento de numeros usando tanto ordenamiento burbuja como ordenamiento por inserción 
+
+Este es un proyecto donde puedes visualizar paso a paso el ordenamiento de numeros usando tanto ordenamiento burbuja como ordenamiento por inserción. 
 
 ## Bubble Sort 
 

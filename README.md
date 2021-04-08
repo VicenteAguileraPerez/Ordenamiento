@@ -1,6 +1,7 @@
 # Ordering (Ordenamiento)
 
-This is a web project where you can visualize step by step the ordering of numbers using both bubble sort and insertion sort algorithm.
+This is a web project where you can visualize step by step the ordering of numbers using both bubble sort and insertion sort.
+Este es un proyecto donde puedes visualizar paso a paso el ordenamiento de numeros usando tanto ordenamiento burbuja como ordenamiento por inserción 
 
 ## Bubble Sort 
 
@@ -8,7 +9,7 @@ This is a web project where you can visualize step by step the ordering of numbe
  > wrong order.
  
  ## Ordenamiento burbuja 
- > Bubble Sort  el algoritmo de ordenamiento más sencillo que funciona intercambando repetidamente los elementos adyacentes si alguno de ellos está en orden incorrecto.
+ > Bubble Sort  es algoritmo de ordenamiento más sencillo que funciona intercambando repetidamente los elementos adyacentes si alguno de ellos está en orden incorrecto.
 
 
 ## Insertion Sort
